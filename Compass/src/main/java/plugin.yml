@@ -1,0 +1,5 @@
+name: BastionCompass
+main: org.example.Main
+version: 1.0
+authors: [Kihron, Slackow, Phase]
+api-version: 1.21.4
